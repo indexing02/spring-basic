@@ -2,6 +2,7 @@ package hello.cor.discount;
 
 import hello.cor.member.Grade;
 import hello.cor.member.Member;
+import org.springframework.context.annotation.Bean;
 import org.springframework.stereotype.Component;
 
 @Component
